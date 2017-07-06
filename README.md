@@ -179,3 +179,4 @@ Updating
 --------
 
 When new versions of TinyMCE are released, simply update the `tinymce-rails` gem to the latest version. There is no need to run any extra rake tasks (apart from `rake assets:precompile`).
+# tinymce-rails
